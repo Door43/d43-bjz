@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bjz:home|Door43 (bjz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bjz|d43-bjz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bjz/archive/master.zip|d43-bjz.zip]]
+
+**Recent Changes**
+{{changes>ns = bjz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bjz|Ethnologue data]]
+
